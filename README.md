@@ -38,7 +38,7 @@ The goal was to:
 
 ---
 
-## Visualizations
+## Visualization
 
 - Content type distribution (Movies vs TV Shows)
 - Top 10 countries by content count
